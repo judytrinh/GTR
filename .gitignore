@@ -1,14 +1,14 @@
 # =============== #
 # Unity generated #
 # =============== #
-Library/
-library/
-Temp/
-temp/
-Obj/
-obj/
-Build/
-build/
+Library/*
+library/*
+Temp/*
+temp/*
+Obj/*
+obj/*
+Build/*
+build/*
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
